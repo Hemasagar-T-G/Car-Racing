@@ -1,0 +1,13 @@
+C:\vs_project\CAR PROJECT\CAR RACE GAME\CAR RACE GAME\bin\Debug\CAR RACE GAME.exe.config
+C:\vs_project\CAR PROJECT\CAR RACE GAME\CAR RACE GAME\bin\Debug\CAR RACE GAME.exe
+C:\vs_project\CAR PROJECT\CAR RACE GAME\CAR RACE GAME\bin\Debug\CAR RACE GAME.pdb
+C:\vs_project\CAR PROJECT\CAR RACE GAME\CAR RACE GAME\obj\Debug\CAR_RACE_GAME.Form1.resources
+C:\vs_project\CAR PROJECT\CAR RACE GAME\CAR RACE GAME\obj\Debug\CAR_RACE_GAME.Properties.Resources.resources
+C:\vs_project\CAR PROJECT\CAR RACE GAME\CAR RACE GAME\obj\Debug\CAR RACE GAME.csproj.GenerateResource.Cache
+C:\vs_project\CAR PROJECT\CAR RACE GAME\CAR RACE GAME\obj\Debug\CAR RACE GAME.exe
+C:\vs_project\CAR PROJECT\CAR RACE GAME\CAR RACE GAME\obj\Debug\CAR RACE GAME.pdb
+C:\vs_project\CAR PROJECT\CAR RACE GAME\CAR RACE GAME\bin\Debug\CAR RACE GAME.exe.manifest
+C:\vs_project\CAR PROJECT\CAR RACE GAME\CAR RACE GAME\bin\Debug\CAR RACE GAME.application
+C:\vs_project\CAR PROJECT\CAR RACE GAME\CAR RACE GAME\obj\Debug\CAR RACE GAME.exe.manifest
+C:\vs_project\CAR PROJECT\CAR RACE GAME\CAR RACE GAME\obj\Debug\CAR RACE GAME.application
+C:\vs_project\CAR PROJECT\CAR RACE GAME\CAR RACE GAME\obj\Debug\CAR RACE GAME.csprojResolveAssemblyReference.cache
